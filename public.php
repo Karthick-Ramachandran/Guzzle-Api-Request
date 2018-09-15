@@ -26,3 +26,6 @@ return response()->json($output);
 }
 
 }
+
+
+// return $res->getBody()->getContents(); which is important 
